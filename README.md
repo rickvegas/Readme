@@ -5,7 +5,7 @@
 
 - 🌱 Estou atualmente aprendendo **Python e Django**
 
-- 👯 Atuando como  desenvolvedor no [VITORINO](https://loja.vitorinotur.com.br/passeio/mundau-e-flecheiras-em-1-dia?gclid=CjwKCAjw_aemBhBLEiwAT98FMvENhxfYfXOeboFX4xNTsR4s5VpLGYYeilDFiA7arv9BaYyzWQLYCxoCBIsQAvD_BwE) e [BOT PARA DISCORD](https://discord.com/developers/docs/intro)
+- 👯 Atuando como  desenvolvedor no [VITORINO](https://loja.vitorinotur.com.br/passeio/mundau-e-flecheiras-em-1-dia?gclid=CjwKCAjw_aemBhBLEiwAT98FMvENhxfYfXOeboFX4xNTsR4s5VpLGYYeilDFiA7arv9BaYyzWQLYCxoCBIsQAvD_BwE) e [BOT PARA DISCORD]([https://discord.com/developers/docs/intro](https://discord.gg/5NN8DaBZTs))
 
 - 💬 Pergunte-me sobre **UX Designer and Web Developer**
 
