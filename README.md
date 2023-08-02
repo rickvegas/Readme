@@ -13,7 +13,7 @@
 
 - ⚡ Fato Curioso **Tenho 2 filhos lindos**
 
-- ⚡ Acesse minha comunidade do DISCORD! [VegasVibesHub]{https://discord.gg/5NN8DaBZTs}
+- ⚡ Acesse minha comunidade do DISCORD! [VegasVibesHub](https://discord.gg/5NN8DaBZTs)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
