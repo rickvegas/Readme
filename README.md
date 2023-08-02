@@ -13,6 +13,8 @@
 
 - ⚡ Fato Curioso **Tenho 2 filhos lindos**
 
+- ⚡ Acesse minha comunidade do DISCORD! [VegasVibesHub]{https://discord.gg/5NN8DaBZTs}
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ricardo-junior-66a790276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulo-roberto-gomes-abreu" height="30" width="40" /></a>
